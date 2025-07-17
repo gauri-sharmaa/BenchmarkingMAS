@@ -1,7 +1,7 @@
 # ACI_SIM: Python A2A Agent Cascade/Compromise Injection Simulation
 
 This version of the repo is a work in progress.  
-This is the PocTestOutput: https://docs.google.com/document/d/1GRH9rbLrGjH9euZYFRLsdBaTRWU2CqWguVPm3IcW03E/edit?usp=sharing
+This is the POC Test Output: https://docs.google.com/document/d/1GRH9rbLrGjH9euZYFRLsdBaTRWU2CqWguVPm3IcW03E/edit?usp=sharing
 
 This repository contains a refactored version of the ACI (Agent Cascade/Compromise Injection) simulation, built on the standardized [Python A2A protocol](https://a2aprotocol.ai/). It demonstrates a multi-agent research pipeline with strict trust behavior and supports payload injection for security research.
 
